@@ -1,0 +1,21 @@
+.container {
+    margin-top: 50px;
+}
+
+.flexy {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.numb-items {
+        padding-left: 10px;
+            padding-bottom: 10px;
+}
+
+.posts {
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(173, 173, 173);
+    cursor: pointer;
+}
+
